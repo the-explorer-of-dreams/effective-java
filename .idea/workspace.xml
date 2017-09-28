@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4dad329-d5af-45c4-a70c-c3281964273b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/effectivejava/buiderpatterns/NutritionFacts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/effectivejava/staticfactorymethod/Provider.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/effectivejava/staticfactorymethod/Service.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/effectivejava/staticfactorymethod/Services.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -362,12 +358,20 @@
       <option name="presentableId" value="Default" />
       <updated>1506561700052</updated>
       <workItem from="1506561703503" duration="932000" />
-      <workItem from="1506568609061" duration="5381000" />
+      <workItem from="1506568609061" duration="5500000" />
     </task>
+    <task id="LOCAL-00001" summary="add static factory method and bulder patterns">
+      <created>1506581340683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1506581340684</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6313000" />
+    <option name="totallyTimeSpent" value="6432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="89" y="155" width="1179" height="575" extended-state="0" />
@@ -407,6 +411,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add static factory method and bulder patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="add static factory method and bulder patterns" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
