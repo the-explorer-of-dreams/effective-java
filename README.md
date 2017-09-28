@@ -1,2 +1,2 @@
 # effective-java
-effective-java learn code practice 
+the code practice of effective-java learning 
